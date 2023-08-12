@@ -1,0 +1,88 @@
+[
+  {
+    "id": "6be618dc1cae3215f1793c74e72f3095e4de3527",
+    "name": "Light",
+    "selectedTokenSets": {
+      "theme": "enabled",
+      "core/colors": "enabled",
+      "core/dimensions": "enabled",
+      "light/primitives": "enabled",
+      "core/defaults": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaCollectionId": "VariableCollectionId:103:5",
+    "$figmaModeId": "103:1",
+    "$figmaVariableReferences": {
+      "button.primary.background": "d04d168278f8497d4b9c0513ed0c616dfbb1eb56",
+      "button.primary.text": "634125c48397db2f557e2e15c90d6612c60cf18d",
+      "card.background": "5211a05fe65a82c5b677180b7b2f6f135cbf9d25",
+      "fg.default": "42ed5d360a50acfdf30078d1be035d5011d78cc2",
+      "fg.muted": "ef0174a2b18116f8bd35b843e4722768a1bcf7cf",
+      "fg.subtle": "10393a3679739a6712a38e0038be492dee2f68da",
+      "bg.default": "a4fac048c47410a2702271936fcbe1c6252d2200",
+      "bg.subtle": "990ddd50cbe933319441f92e36794cc056618dff",
+      "accent.default": "2df86cf0d415859d6201094b65ce2fb0b58a13b8",
+      "accent.onAccent": "4886f2dcd9ff302866cc038cf25d4fbd6e422e7d",
+      "accent.bg": "9753b41e8167fcd424c9f7190a816a777dbefcfb",
+      "shadows.default": "e0bf7a373abe6577e3341ea4a8726ca490aa253f",
+      "border.default": "54c23d192ed3173c2c69edf20197b078259329a9",
+      "border.muted": "6a2f45b0363acd5d1f8557d98eb41bc33446804e",
+      "contrast.bg.default": "0a2f9e4d89854adde0f70c2d664389be80a0bb40",
+      "contrast.bg.subtle": "4241c110a976790855c7c47f772692a12dc0f99a",
+      "contrast.border.default": "e8ff2dd2636d510a7ea0fd5289b19bd96de7832d",
+      "contrast.border.muted": "14b1a11207f16e5d4cffba224ab4a8b957c284a4",
+      "button.borderRadius": "544d9072da89096d964668a28fce0d1c579536c0",
+      "button.borderWidth": "e2be337102ad75bc933783acd49b9b2d161cffdd",
+      "card.borderRadius": "029a6abe9ce7f8526411def6d5a58ea16253c4fa",
+      "card.padding": "cce43be03478a6c5fc0ad30e0729489c9bade37c"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "28983d638284cad3d6ad7965ac4046e1f48f6588",
+    "name": "Dark",
+    "selectedTokenSets": {
+      "core/colors": "enabled",
+      "core/dimensions": "enabled",
+      "theme": "enabled",
+      "dark/primitives": "enabled",
+      "core/defaults": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "group": "Theme"
+  },
+  {
+    "id": "b9044e7127c42c03f6ced3054e403dd2a3a6e235",
+    "name": "RedPlanet",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "overrides/brands/RedPlanet": "enabled",
+      "core/colors": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:103:28",
+    "$figmaModeId": "103:2",
+    "$figmaVariableReferences": {
+      "colors.onAccent.default": "c7ec4325315db1ed7ff943e81269bed277b050f2",
+      "colors.accent.100": "ea91b506233c6cd99eab7a50e2d35d41ca5e312e",
+      "colors.accent.200": "01174d3b55e29fe29aec4e897286ec3cb714f450",
+      "colors.accent.300": "85b9038bcd8ec9ed11f9d08d446707ba6cb39876",
+      "colors.accent.400": "cdde72360ddca7bbe38b986a6fa220faab59a181",
+      "colors.accent.500": "89cf6b64b6fc02c46de34d65d0ccf79e2f827f96",
+      "colors.accent.600": "aa68aac7566110e02762b448c094edad7f1565ed",
+      "colors.accent.700": "37343c623607df1fa4463ed40badbe00aadb6b31",
+      "colors.accent.800": "e0c6ad8df385455db60950ce98897616c08578ea",
+      "colors.accent.900": "5c9c16eab195d8c1a5577e55aacfbd1a2cc85696"
+    },
+    "group": "Brands"
+  },
+  {
+    "id": "7ce36e29dfe536b40115230cf3b7dcfa5f532f8c",
+    "name": "YellowCab",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "overrides/brands/YellowCab": "enabled",
+      "core/colors": "source"
+    },
+    "group": "Brands"
+  }
+]
