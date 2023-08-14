@@ -52,27 +52,5 @@
       "value": "{colors.gray.800}",
       "type": "color"
     }
-  },
-  "contrast": {
-    "bg": {
-      "default": {
-        "value": "{colors.gray.900}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{colors.gray.900}",
-        "type": "color"
-      }
-    },
-    "border": {
-      "default": {
-        "value": "{colors.gray.500}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{colors.gray.500}",
-        "type": "color"
-      }
-    }
   }
 }
